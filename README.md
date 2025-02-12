@@ -65,7 +65,5 @@ This project is part of academic research at BITS Pilani, Dubai Campus.
 
 ## Contact
 Jannath Shaik
-
 Email: jannathshaik4@gmail.com
-
 LinkedIn: linkedin.com/in/jannathshaik1511ac
